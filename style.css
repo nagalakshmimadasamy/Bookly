@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif; /* add quotes around font names with capital letters */
+    font-family: 'Poppins', sans-serif; 
 }
 .navbar
 {
@@ -19,8 +19,8 @@ body {
 {
    
      display: flex;
-    flex-wrap: wrap;       /* allow multiple rows if they overflow */
-    gap: 20px;             /* space between cards */
+    flex-wrap: wrap;       
+    gap: 20px;             
     padding: 20px;
 }
 .book-container
@@ -177,3 +177,4 @@ label {
     border: 1px solid #ccc;
     font-size: 16px;
 }
+
